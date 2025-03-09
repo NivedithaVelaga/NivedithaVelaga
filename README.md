@@ -37,5 +37,5 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niveditha4115&theme=dark&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivedithaVelaga&theme=dark&layout=compact" alt="Top Languages"/>
 </p>
